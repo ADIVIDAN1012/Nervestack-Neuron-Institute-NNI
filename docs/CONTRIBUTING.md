@@ -56,7 +56,7 @@ To verify if a feature works:
 3. **Execute:** Run `.\src\runtime\main.exe ast.json`
 4. **Verify:** Does it produce the expected output?
 
-See **[IMPLEMENTATION_STATUS.md](../IMPLEMENTATION_STATUS.md)** for detailed feature status and testing recommendations.
+See **[IMPLEMENTATION_STATUS.md](./IMPLEMENTATION_STATUS.md)** for detailed feature status and testing recommendations.
 
 ### Running Tests
 

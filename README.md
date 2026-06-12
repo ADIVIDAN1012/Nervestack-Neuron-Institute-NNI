@@ -23,7 +23,7 @@ Nervestack is a futuristic **Universal User-oriented Programming (UOP)** languag
 
 3. **Run it instantly**
    ```bash
-   python run_file.py hello.nspl
+    python tools/scripts/run_file.py hello.nspl
    ```
 
 ---
@@ -76,15 +76,15 @@ cd ../..
 
 ## 📖 Learning Nervestack
 
-- **[Syntax in 5 Minutes](Syntax.md)** - Get up to speed quickly.
-- **[Keyword Dictionary](Keywords.md)** - Every keyword explained.
-- **[The UOP Philosophy](UOP.md)** - Why we built it this way.
-- **[Examples](Examples.md)** - Real-world code snippets.
+- **[Syntax in 5 Minutes](docs/Syntax.md)** - Get up to speed quickly.
+- **[Keyword Dictionary](docs/Keywords.md)** - Every keyword explained.
+- **[The UOP Philosophy](docs/UOP.md)** - Why we built it this way.
+- **[Examples](docs/Examples.md)** - Real-world code snippets.
 
 ---
 
 ## 🤝 Contributing
 
-We love help! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
+We love help! Check out our [Contributing Guide](docs/CONTRIBUTING.md) to get started.
 
 Copyright © 2026 Nervestack Neuron Institute (NNI).
