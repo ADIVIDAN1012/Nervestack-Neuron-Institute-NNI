@@ -42,7 +42,7 @@ def create_docx(filename):
     
     p = doc.add_paragraph()
     p.add_run("🌐 Website: ").bold = True
-    p.add_run("https://adividan1012.github.io/Nervestack-NCI/")
+    p.add_run("https://adividan1012.github.io/Nervestack-NNI/")
     
     p = doc.add_paragraph()
     p.add_run("💬 Join WhatsApp Community: ").bold = True
@@ -118,7 +118,7 @@ def create_pptx(filename):
     
     tf = content.text_frame
     p = tf.add_paragraph()
-    p.text = "🌐 Website: adividan1012.github.io/Nervestack-NCI"
+    p.text = "🌐 Website: adividan1012.github.io/Nervestack-NNI"
     p.level = 0
     
     p = tf.add_paragraph()

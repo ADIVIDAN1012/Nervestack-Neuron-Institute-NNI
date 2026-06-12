@@ -2,13 +2,13 @@
 
 ## ✅ Changes Pushed to GitHub
 
-Your website files are now updated and pushed to: https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI
+Your website files are now updated and pushed to: https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI
 
 **Updated:**
 
 - Download links now point to v2.0.0 GitHub release assets
-- NSPL.exe link: `https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI/releases/download/v2.0.0/NSPL.exe`
-- VS Code extension link: `https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI/releases/download/v2.0.0/Nervestack-2.0.0.vsix`
+- NSPL.exe link: `https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI/releases/download/v2.0.0/NSPL.exe`
+- VS Code extension link: `https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI/releases/download/v2.0.0/Nervestack-2.0.0.vsix`
 
 ---
 
@@ -16,7 +16,7 @@ Your website files are now updated and pushed to: https://github.com/ADIVIDAN101
 
 ### Option 1: Deploy from `Nervestack-website` folder (Recommended)
 
-1. Go to: https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI/settings/pages
+1. Go to: https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI/settings/pages
 
 2. Under **Source**:
    - Branch: Select **main**
@@ -27,7 +27,7 @@ Your website files are now updated and pushed to: https://github.com/ADIVIDAN101
 
 4. Your site will be live at:
    ```
-   https://adividan1012.github.io/Nervestack-NCI/
+   https://adividan1012.github.io/Nervestack-NNI/
    ```
 
 ### Option 2: Deploy from root with custom workflow
@@ -43,7 +43,7 @@ If you want the site at the root URL without the `/Nervestack-website` path, you
 
 **Just follow these 3 steps:**
 
-1. **Open Settings**: https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI/settings/pages
+1. **Open Settings**: https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI/settings/pages
 
 2. **Configure**:
    - Source: **Deploy from a branch**
@@ -58,7 +58,7 @@ If you want the site at the root URL without the `/Nervestack-website` path, you
 
 Once deployed, check:
 
-- ✅ Site loads: https://adividan1012.github.io/Nervestack-NCI/
+- ✅ Site loads: https://adividan1012.github.io/Nervestack-NNI/
 - ✅ Download buttons work
 - ✅ Styling looks correct
 - ✅ Images load properly

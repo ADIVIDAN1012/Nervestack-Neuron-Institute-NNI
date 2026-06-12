@@ -10,7 +10,7 @@
 #### Slide 1: Welcome!
 - **Main Heading:** Hey Suvee! Check out Nervestack 🚀
 - **Sub-heading:** Bringing some "Neural" vibes to coding.
-- **Footer:** Built with ❤️ at the Nervestack Codex Institute (NCI) | By Aaditya Sadhu
+- **Footer:** Built with ❤️ at the Nervestack Neuron Institute (NNI) | By Aaditya Sadhu
 
 #### Slide 2: What is this thing?
 - **Heading:** The Vibe: UOP
@@ -19,8 +19,8 @@
     - Basically, making code that actually makes sense when you read it.
     - We moved from the old "Nervestack" engine to this new **Nervestack** beast.
 
-#### Slide 3: Our Secret Lab (NCI)
-- **Heading:** The Nervestack Codex Institute
+#### Slide 3: Our Secret Lab (NNI)
+- **Heading:** The Nervestack Neuron Institute
 - **Content:**
     - It's like my own research hub for making code look and feel premium.
     - Mission: "Alive" code—stuff that's responsive, safe, and honestly just looks dope.

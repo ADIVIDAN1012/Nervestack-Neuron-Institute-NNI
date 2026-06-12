@@ -46,6 +46,6 @@ python run_file.py your_code.nspl
 - [Keywords Reference](Keywords.md)
 - [The UOP Philosophy](UOP.md)
 
-**Full Changelog**: [v1.0.0...v2.0.0](https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI/compare/v1.0.0...v2.0.0)
+**Full Changelog**: [v1.0.0...v2.0.0](https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI/compare/v1.0.0...v2.0.0)
 
-Copyright © 2026 Nervestack Codex Institute (NCI).
+Copyright © 2026 Nervestack Neuron Institute (NNI).

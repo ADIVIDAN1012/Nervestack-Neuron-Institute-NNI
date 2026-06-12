@@ -11,8 +11,8 @@ Nervestack is a futuristic **Universal User-oriented Programming (UOP)** languag
 
 1. **Clone & Build**
    ```bash
-   git clone https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI.git
-   cd Nervestack-Codex-Institute-NCI
+   git clone https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI.git
+   cd Nervestack-Neuron-Institute-NNI
    cd src/runtime; .\build.bat; cd ../..
    ```
 
@@ -63,8 +63,8 @@ Once parsed, your code is executed by a high-performance **C++ engine**. You get
 ### Detailed Setup
 ```bash
 # 1. Get the code
-git clone https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI.git
-cd Nervestack-Codex-Institute-NCI
+git clone https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI.git
+cd Nervestack-Neuron-Institute-NNI
 
 # 2. Build the C++ Engine
 cd src/runtime
@@ -87,4 +87,4 @@ cd ../..
 
 We love help! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
 
-Copyright © 2026 Nervestack Codex Institute (NCI).
+Copyright © 2026 Nervestack Neuron Institute (NNI).

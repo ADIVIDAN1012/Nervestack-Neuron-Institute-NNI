@@ -3,10 +3,10 @@
   "displayName": "Nervestack",
   "description": "Language support for Nervestack",
   "version": "2.0.0",
-  "publisher": "NervestackNCI",
+  "publisher": "NervestackNNI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ADIVIDAN1012/Nervestack-Codex-Institute-NCI.git"
+    "url": "https://github.com/ADIVIDAN1012/Nervestack-Neuron-Institute-NNI.git"
   },
   "icon": "icon.png",
   "engines": {

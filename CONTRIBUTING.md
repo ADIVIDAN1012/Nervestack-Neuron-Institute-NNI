@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Nervestack! This document contain
 ## 🏗️ Project Structure
 
 ```
-Nervestack-Codex-Institute-NCI/
+Nervestack-Neuron-Institute-NNI/
 ├── src/
 │   ├── frontend/         # Python Compiler (Lexer/Parser/AST)
 │   └── runtime/          # C++ Interpreter (VM/Backend)

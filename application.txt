@@ -1,6 +1,6 @@
 Nervestack Programming Language (NSPL) - Use Cases and Applications
 
-The Nervestack Programming Language, developed by the Nervestack Codex Institute (NCI), is built on the Universal User-Oriented Programming (UOP) paradigm. Its design prioritizes human intuition and readability, making it suitable for several high-impact use cases:
+The Nervestack Programming Language, developed by the Nervestack Neuron Institute (NNI), is built on the Universal User-Oriented Programming (UOP) paradigm. Its design prioritizes human intuition and readability, making it suitable for several high-impact use cases:
 
 1. Educational Foundation
    - Ideal for teaching the core logic of programming to beginners.
@@ -22,8 +22,8 @@ The Nervestack Programming Language, developed by the Nervestack Codex Institute
 5. System Architecture Design
    - The "Blueprint" and "Bridge" systems allow for defining complex object-oriented structures and interfaces that are human-readable but strictly enforced by the compiler.
 
-Value of Rebranding to Nervestack (NCI):
-- Established a professional and unique project identity under the Nervestack Codex Institute.
+Value of Rebranding to Nervestack (NNI):
+- Established a professional and unique project identity under the Nervestack Neuron Institute.
 - Introduced the streamlined .ns file extension for a better developer workflow.
 - Standardized the CLI toolchain for a cohesive experience from lexing to interpretation.
 - Clarified the development roadmap by distinguishing between stable, experimental, and planned features.

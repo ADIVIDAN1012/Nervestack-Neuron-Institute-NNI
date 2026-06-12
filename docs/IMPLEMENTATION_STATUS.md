@@ -1,6 +1,6 @@
 # Nervestack Programming Language - Implementation Status
 
-This document provides a comprehensive overview of the implementation status for the **Nervestack Programming Language (NSPL)**, developed by the **Nervestack Codex Institute (NCI)**.
+This document provides a comprehensive overview of the implementation status for the **Nervestack Programming Language (NSPL)**, developed by the **Nervestack Neuron Institute (NNI)**.
 
 ---
 
@@ -33,7 +33,7 @@ These features are implemented in the grammar and parser, but are currently unde
 
 ## 🗺️ Roadmap & Future Enhancements
 
-The **Nervestack Codex Institute** is committed to the continuous improvement of the **Universal User-oriented Programming (UOP)** paradigm.
+The **Nervestack Neuron Institute** is committed to the continuous improvement of the **Universal User-oriented Programming (UOP)** paradigm.
 
 1.  **Strict Mode**: Optional type annotations for increased performance and safety.
 2.  **Standard Library Expansion**: Native math, filesystem, and networking toolkits.
@@ -56,4 +56,4 @@ nervestack run test_traverse.ns
 
 ---
 
-_Copyright © 2026 Nervestack Codex Institute (NCI). All rights reserved._
+_Copyright © 2026 Nervestack Neuron Institute (NNI). All rights reserved._
